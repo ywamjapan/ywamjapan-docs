@@ -17,4 +17,4 @@ For more information on how to use Discord, as well as to find out all of its fe
 
 ### Support
 
-If you run into any problems, or need to ask a question, let us know in the #techsupport-技術サポート channel.
+If you run into any problems, or need to ask a question, let us know in the #techsupport channel.
