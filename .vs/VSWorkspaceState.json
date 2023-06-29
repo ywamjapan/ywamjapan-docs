@@ -5,8 +5,10 @@
     "\\docs\\about",
     "\\docs\\community",
     "\\docs\\lifeinjapan",
-    "\\docs\\ministries"
+    "\\docs\\ministries",
+    "\\src",
+    "\\src\\css"
   ],
-  "SelectedNode": "\\sidebars.js",
+  "SelectedNode": "\\src\\css\\custom.css",
   "PreviewInSolutionExplorer": false
 }
