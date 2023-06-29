@@ -31,7 +31,7 @@ All Japan YWAMers must make a commitment to attend scheduled meetings and events
 
 ## Communication
 
-As we all live in separate locations, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All Japan YWAMers are expected to be active and attentive to all communication done over [Element](communication.md).
+As we all live in separate locations, we need to communicate well both in person and online. We need to aim to over-communicate, rather than under-communicate. Especially as our community grows (and pioneer new communities!). All Japan YWAMers are encouraged to be active and attentive to all communication done over [Discord](communication.md).
 
 ## Japanese Language & Culture
 
