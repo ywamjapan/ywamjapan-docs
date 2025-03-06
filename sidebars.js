@@ -61,7 +61,7 @@ module.exports = {
      {
       type: 'category',
       label: 'UofN',
-      items: ['ministries/schoolreg']
+      items: ['ministries/uofnreg']
     },
      {
         type: 'category',
