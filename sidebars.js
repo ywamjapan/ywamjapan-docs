@@ -61,7 +61,7 @@ module.exports = {
      {
       type: 'category',
       label: 'UofN',
-      items: ['ministries/uofnreg, ministries/dtslectureeval']
+      items: ['ministries/uofnreg', 'ministries/dtslectureeval']
     },
      {
         type: 'category',
