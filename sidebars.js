@@ -59,6 +59,11 @@ module.exports = {
    ministriesSidebar: [
      'ministries/pioneering', 'ministries/overseeing',
      {
+      type: 'category',
+      label: 'UofN',
+      items: ['ministries/schoolreg']
+    },
+     {
         type: 'category',
         label: 'Legal Entity',
         items: ['ministries/religiouscorporation',
@@ -70,7 +75,4 @@ module.exports = {
       ]
       }
     ],
-    uofnSidebar: [
-      'uofn/dts'
-     ],
 }
