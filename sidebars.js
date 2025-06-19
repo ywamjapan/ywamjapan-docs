@@ -41,6 +41,11 @@ module.exports = {
         type: 'category',
         label: 'Join',
         items: ['community/join', 'community/onboarding', 'community/fundraising', 'community/visaApply']
+      },
+      {
+        type: 'category',
+        label: 'Member Care',
+        items: ['community/membercare', 'community/membercareresources']
       }
    ],
    lifeinjapanSidebar: [
