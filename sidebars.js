@@ -46,6 +46,11 @@ module.exports = {
         type: 'category',
         label: 'Member Care',
         items: ['community/membercare', 'community/membercareresources']
+      },
+      {
+        type: 'category',
+        label: 'ICS',
+        items: ['community/ics', 'community/ics-resources']
       }
    ],
    lifeinjapanSidebar: [
