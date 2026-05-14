@@ -20,8 +20,7 @@ Each location/ministry in YWAM Japan may have a different process which they wil
 - You send your receiving location/ministry **all required documents** via **both** email and physical mail (detailed below).
 - Your receiving location/ministry will then apply for a CoE from Japanese Immigration once your documents have been received (can take 6 to 12 weeks).
 - The **CoE** will be sent to you once your receiving location/ministry receive it.
-- Your receiving location/ministry will email you a **Certificate for Completion of Registration to the ERFS system** and **Declaration form** (introduced due to the COVID pandemic).
-- You then **go to your local Japanese Embassy or Consulate** and submit a **Visa Application** form, **CoE**, **Certificate for Completion of Registration to the ERFS system**, **Declaration form**, and your **passport** in order to apply for your visa.
+- You then **go to your local Japanese Embassy or Consulate** and submit a **Visa Application** form, **CoE**, and your **passport** in order to apply for your visa.
 - Usually within a few days, you can return to the Embassy or Consulate to pick up your passport with your visa! This likely must be done in person, but sometimes they give you the option to receive it via mail. You can check this with them.
 - You can now book your flight to Japan! (**Note: please don’t purchase your airline ticket until your visa is issued in case of unexpected delays**).
 - You must enter Japan within 3 months of receiving your visa.

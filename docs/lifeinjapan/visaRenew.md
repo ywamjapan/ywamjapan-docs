@@ -23,6 +23,6 @@ Please find below a list of what you need in order to apply for your visa extens
 - **Page 3 of the Application Form** from your YWAM location's visa person
 - YWAM Japan National Office issued **Invitation/Warranty** from your YWAM location's visa person
 - **Passport** and **residence card**
-- **4,000 yen revenue stamp** when picking up the new residence card - can be bought at a post office
+- **6,000 yen revenue stamp** when picking up the new residence card - can be bought at a post office
 
 **Note:** If any of these documents are in another language other than English or Japanese, please also provide English or Japanese translations.

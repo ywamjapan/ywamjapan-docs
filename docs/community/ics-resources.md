@@ -29,7 +29,7 @@ title: ICS Resources
 - [An overview of junior high public school life (Kanagawa, 2019)](https://www.abcjapan.org/en/middle-school/)
 
 **Seminars/Care Provider:**
-- [International Christian School: Online and in-person educational consultation and K12 non-academic/academic gatherings](rsomersharris@icstokyo.com)
+- [International Christian School: Online and in-person educational consultation and K12 non-academic/academic gatherings](mailto:rsomersharris@icstokyo.com)
 
 - [Access to Education - NPO ABC Japan](https://www.abcjapan.org/en/children-education-eng/) (seminars and classes for non-Japanese parents and children entering Japanese public school)
 
